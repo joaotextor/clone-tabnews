@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1>Faster commits</h1>
+      <h1>Under Construction!</h1>
     </>
   );
 }
